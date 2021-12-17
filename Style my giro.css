@@ -12,11 +12,12 @@ header p{
 	padding:0px 20px 20px 0px;
 }
 header img{
-	height:100px;
-	margin:20px 0px 0px 20px;
+	height:200px;
+	
 }
 header p img{
 	 height: 15px;
+	 padding:0px 0px 0px 5px;
 
 }
 span{
@@ -35,7 +36,7 @@ nav a{
 	text-decoration:none;
 	border-radius:20px;
 	border:1px solid black;
-	color:#FF0000;
+	color:white;
 	padding:10px;
 	font-size:25px;
 }
@@ -64,7 +65,7 @@ h1{
 .Product article{
 	padding:30px;
 	margin:20px;
-	border:3px solid #00BFFF;
+	border:3px solid #FFA500;
 	
 }
 .nn2{
@@ -160,5 +161,14 @@ nav a:hover{
 	text-align:center;
 }
 main{
-	padding:0px 150px 0px 150px;
+	padding:20px 150px 0px 150px;
+	background:linear-gradient(70deg,#00FF7F,#1E90FF,#DC143C);
 }
+.topNubex {
+	position: fixed;
+	right: 45px;
+	bottom: 45px;
+	text-decoration:none;
+	color:#00FFFF;
+	font-size:20px;
+   }
